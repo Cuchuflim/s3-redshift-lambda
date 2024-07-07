@@ -1,5 +1,3 @@
-https://cuchujr23.substack.com/publish/posts/detail/146172022?referrer=%2Fpublish%2Fposts
-
 # s3-redshift-lambda
 This project aims to dynamically upload files to an Amazon Redshift database using an Amazon S3 bucket and an AWS Lambda function triggered by events.
 
